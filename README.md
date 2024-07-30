@@ -1,5 +1,6 @@
 ## Github Stats
 
+Database kernel dev. focus on database, distributed system, etc.
 <table>
 <tr>
 <td>
@@ -20,5 +21,5 @@
 </picture>
 </enter>
 </td>
-</tr》
+</tr>
 </table>
