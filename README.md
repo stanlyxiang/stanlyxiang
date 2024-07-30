@@ -1,6 +1,9 @@
 ## Github Stats
 
-Database kernel dev. focus on database, distributed system, etc.
+Apache HAWQ Committer, however it was archived at July 2024.
+Used to work on Apache HAWQ, HAWQ Enterprise Edition, and GreenplumDB for a short time.
+Now focus on database kernel, mainly storage system. Also interested in cloud computing, distributed system, hpc, etc.
+
 <table>
 <tr>
 <td>
